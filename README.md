@@ -1,3 +1,12 @@
+This Fork
+=========
+
+- Track personal used config.mak
+    - gcc15 + musl1.1.24, arm
+    - gcc16, musl1.2.5, aarch64     
+- Copy gcc16 support from https://github.com/userdocs/musl-cross-make
+
+
 musl-cross-make
 ===============
 
